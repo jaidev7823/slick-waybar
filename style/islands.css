@@ -173,7 +173,11 @@ tooltip label{
 #custom-weather.severe,
 #custom-weather.showyIcyDay,
 #custom-weather.snowyIcyNight,
-#custom-weather.sunnyDay {
+#custom-weather.sunnyDay,
+#custom-nightlight,
+#custom-voxtype,
+#custom-timer,
+#custom-todo {
   background-color: alpha(@surface_container, 0.75);
  /* border: 1px solid @surface_container; */
   border-radius: 20px;
